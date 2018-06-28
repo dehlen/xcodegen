@@ -1,6 +1,6 @@
 {
   "name": "xcodegen",
-  "version": "1.9.0",
+  "version": "1.9.2",
   "esy": {
     "build": [
       ["cp", "-r", "bin", "#{self.install}"],
