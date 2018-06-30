@@ -17,4 +17,4 @@ BASE_DIR=$(cd `dirname $0`; pwd)
 
 cp -r $BASE_DIR/share "${PREFIX}"
 ## Linked by npm
-#cp -r $BASE_DIR/bin "${PREFIX}"
+cp -r $BASE_DIR/bin "${PREFIX}"
